@@ -6,6 +6,7 @@
 
 - [配色方案](docs/配色方案.md) — 期刊风格配色（NPG / AAAS / NEJM / Lancet / JAMA）、色盲友好配色（Okabe-Ito、Paul Tol）、连续型科学色图等
 - [期刊绘图规范](docs/期刊绘图规范.md) — Nature、Science、Elsevier、PLOS 等期刊对图片尺寸、分辨率、字体、格式的要求
+- [框架图与实物素材](docs/框架图与实物素材.md) — 示意图+实物照片结合的框架图制作工具与素材库
 - [工具与资源清单](docs/工具与资源.md) — Python / R 绘图配色包、在线配色工具、学习资料
 - [`palettes/`](palettes/) — 可直接使用的配色文件（Python 字典 / JSON）
 
